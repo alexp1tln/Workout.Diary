@@ -1,0 +1,6 @@
+{
+  "name": "Sanguis - Gothic Workout Diary",
+  "description": "Gothic-themed workout book with InBody telemetry, fitness trends analytics, and comprehensive goal trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
